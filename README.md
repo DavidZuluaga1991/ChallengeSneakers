@@ -22,11 +22,23 @@
 [Sneakers ](./readme/ChallengeBack%20v1.pdf) is an exercise where we will expose several endpoints among them are:
 
 * **/products**
-* **/price/{user_id}/{name_product}**
+* **/price/{user_id}/{name_product}** 
+
+### **Examples**
+
+* **Post:** [/api/products](https://challenge-sneakers.vercel.app/api/products?pageSize=10&page=1)
+
+<img src="./readme/products.png" alt="Product wiht stock" />
+
+* **Get:** [/price/660f88b57f4659f9308baaeb/Zapatillas Adidas](https://challenge-sneakers.vercel.app/api/price/660f88b57f4659f9308baaeb/Zapatillas%20Adidas)
+
+<img src="./readme/price.png" alt="Price Special" />
 
 the project is in:
 
-**GitHub:** 
+**GitHub:** [ChallengeSneakers](https://github.com/DavidZuluaga1991/ChallengeSneakers)
+
+**Deploy (Vercel):** [ChallengeSneakers](https://challenge-sneakers.vercel.app/)
 
 ## Installation
 
