@@ -1,0 +1,142 @@
+[
+    {
+      "name": "Arthur Dent",
+      "identification": "12345",
+      "email": "arthur.dent@example.com",
+      "phone": "555-1234",
+      "address": "42 Wallaby Way, London"
+    },
+    {
+      "name": "Ford Prefect",
+      "identification": "67890",
+      "email": "ford.prefect@example.com",
+      "phone": "555-5678",
+      "address": "Baker Street, London"
+    },
+    {
+      "name": "Trillian",
+      "identification": "13579",
+      "email": "tricia.mcmillan@example.com",
+      "phone": "555-2468",
+      "address": "Milliways, the Restaurant at the End of the Universe"
+    },
+    {
+      "name": "Zaphod Beeblebrox",
+      "identification": "24680",
+      "email": "zaphod.beeblebrox@example.com",
+      "phone": "555-1357",
+      "address": "The Heart of Gold, Infinite Improbability Drive"
+    },
+    {
+      "name": "Marvin",
+      "identification": "98765",
+      "email": "marvin.the.robot@example.com",
+      "phone": "555-4321",
+      "address": "Sirius Cybernetics Corporation"
+    },
+    {
+      "name": "Slartibartfast",
+      "identification": "54321",
+      "email": "slartibartfast@example.com",
+      "phone": "555-8765",
+      "address": "Magrathea"
+    },
+    {
+      "name": "Deep Thought",
+      "identification": "19283",
+      "email": "deep.thought@example.com",
+      "phone": "555-9876",
+      "address": "The Halls of Valhalla"
+    },
+    {
+      "name": "Eddie",
+      "identification": "73829",
+      "email": "eddie.the.computer@example.com",
+      "phone": "555-7890",
+      "address": "The Starship Heart of Gold"
+    },
+    {
+      "name": "Vogon Jeltz",
+      "identification": "27364",
+      "email": "jeltz@example.com",
+      "phone": "555-6543",
+      "address": "The Vogon Constructor Fleet"
+    },
+    {
+      "name": "Fenchurch",
+      "identification": "82937",
+      "email": "fenchurch@example.com",
+      "phone": "555-8901",
+      "address": "Nowhere in Particular"
+    },
+    {
+      "name": "Prostetnic Vogon Jeltz",
+      "identification": "36472",
+      "email": "jeltz@example.com",
+      "phone": "555-5432",
+      "address": "The Vogon Constructor Fleet"
+    },
+    {
+      "name": "Zarniwoop",
+      "identification": "93728",
+      "email": "zarniwoop@example.com",
+      "phone": "555-9012",
+      "address": "The Hitchhiker's Guide to the Galaxy offices"
+    },
+    {
+      "name": "Agrajag",
+      "identification": "47283",
+      "email": "agrajag@example.com",
+      "phone": "555-4321",
+      "address": "Various locations across the universe"
+    },
+    {
+      "name": "Lunkwill",
+      "identification": "72839",
+      "email": "lunkwill@example.com",
+      "phone": "555-9012",
+      "address": "The Hitchhiker's Guide to the Galaxy offices"
+    },
+    {
+      "name": "Fook",
+      "identification": "28374",
+      "email": "fook@example.com",
+      "phone": "555-5432",
+      "address": "The Hitchhiker's Guide to the Galaxy offices"
+    },
+    {
+      "name": "Gag Halfrunt",
+      "identification": "98374",
+      "email": "halfrunt@example.com",
+      "phone": "555-6789",
+      "address": "The Hitchhiker's Guide to the Galaxy offices"
+    },
+    {
+      "name": "Benjy Mouse",
+      "identification": "37482",
+      "email": "benjy.mouse@example.com",
+      "phone": "555-9012",
+      "address": "The Hitchhiker's Guide to the Galaxy offices"
+    },
+    {
+      "name": "Frankie Mouse",
+      "identification": "72839",
+      "email": "frankie.mouse@example.com",
+      "phone": "555-5432",
+      "address": "The Hitchhiker's Guide to the Galaxy offices"
+    },
+    {
+      "name": "Zaphod Beeblebrox",
+      "identification": "24680",
+      "email": "zaphod.beeblebrox@example.com",
+      "phone": "555-1357",
+      "address": "The Heart of Gold, Infinite Improbability Drive"
+    },
+    {
+      "name": "Eddie",
+      "identification": "73829",
+      "email": "eddie.the.computer@example.com",
+      "phone": "555-7890",
+      "address": "The Starship Heart of Gold"
+    }
+  ]

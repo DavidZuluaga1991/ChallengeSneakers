@@ -1,0 +1,155 @@
+[
+    {
+      "sku": "1234",
+      "name": "Zapatillas Nike",
+      "description": "Zapatillas deportivas para hombre",
+      "price": 99.99,
+      "stock": true,
+      "brand": "Nike",
+      "image": "https://example.com/nike.jpg"
+    },
+    {
+      "sku": "5678",
+      "name": "Zapatillas Adidas",
+      "description": "Zapatillas deportivas para mujer",
+      "price": 79.99,
+      "stock": true,
+      "brand": "Adidas",
+      "image": "https://example.com/adidas.jpg"
+    },
+    {
+      "sku": "9101",
+      "name": "Zapatillas Puma",
+      "description": "Zapatillas deportivas unisex",
+      "price": 69.99,
+      "stock": false,
+      "brand": "Puma",
+      "image": "https://example.com/puma.jpg"
+    },
+    {
+      "sku": "1121",
+      "name": "Zapatillas Reebok",
+      "description": "Zapatillas deportivas para niño",
+      "price": 49.99,
+      "stock": true,
+      "brand": "Reebok",
+      "image": "https://example.com/reebok.jpg"
+    },
+    {
+      "sku": "3141",
+      "name": "Zapatillas Converse",
+      "description": "Zapatillas deportivas para mujer",
+      "price": 59.99,
+      "stock": false,
+      "brand": "Converse",
+      "image": "https://example.com/converse.jpg"
+    },
+    {
+      "sku": "5161",
+      "name": "Zapatillas Vans",
+      "description": "Zapatillas deportivas para hombre",
+      "price": 69.99,
+      "stock": false,
+      "brand": "Vans",
+      "image": "https://example.com/vans.jpg"
+    },
+    {
+      "sku": "7181",
+      "name": "Zapatillas New Balance",
+      "description": "Zapatillas deportivas para mujer",
+      "price": 89.99,
+      "stock": false,
+      "brand": "New Balance",
+      "image": "https://example.com/newbalance.jpg"
+    },
+    {
+      "sku": "9202",
+      "name": "Zapatillas Skechers",
+      "description": "Zapatillas deportivas para hombre",
+      "price": 79.99,
+      "stock": true,
+      "brand": "Skechers",
+      "image": "https://example.com/skechers.jpg"
+    },
+    {
+      "sku": "1222",
+      "name": "Zapatillas Asics",
+      "description": "Zapatillas deportivas para mujer",
+      "price": 99.99,
+      "stock": false,
+      "brand": "Asics",
+      "image": "https://example.com/asics.jpg"
+    },
+    {
+      "sku": "4242",
+      "name": "Zapatillas Fila",
+      "description": "Zapatillas deportivas unisex",
+      "price": 69.99,
+      "stock": false,
+      "brand": "Fila",
+      "image": "https://example.com/fila.jpg"
+    },
+    {
+      "sku": "6262",
+      "name": "Zapatillas Under Armour",
+      "description": "Zapatillas deportivas para hombre",
+      "price": 79.99,
+      "stock": true,
+      "brand": "Under Armour",
+      "image": "https://example.com/underarmour.jpg"
+    },
+    {
+      "sku": "8282",
+      "name": "Zapatillas Salomon",
+      "description": "Zapatillas deportivas para mujer",
+      "price": 89.99,
+      "stock": false,
+      "brand": "Salomon",
+      "image": "https://example.com/salomon.jpg"
+    },
+    {
+      "sku": "0303",
+      "name": "Zapatillas Lacoste",
+      "description": "Zapatillas deportivas para hombre",
+      "price": 99.99,
+      "stock": false,
+      "brand": "Lacoste",
+      "image": "https://example.com/lacoste.jpg"
+    },
+    {
+      "sku": "2323",
+      "name": "Zapatillas Timberland",
+      "description": "Zapatillas deportivas para mujer",
+      "price": 79.99,
+      "stock": false,
+      "brand": "Timberland",
+      "image": "https://example.com/timberland.jpg"
+    },
+    {
+      "sku": "4343",
+      "name": "Zapatillas Merrell",
+      "description": "Zapatillas deportivas unisex",
+      "price": 69.99,
+      "stock": true,
+      "brand": "Merrell",
+      "image": "https://example.com/merrell.jpg"
+    },
+    {
+      "sku": "6363",
+      "name": "Zapatillas Columbia",
+      "description": "Zapatillas deportivas para hombre",
+      "price": 89.99,
+      "stock": false,
+      "brand": "Columbia",
+      "image": "https://example.com/columbia.jpg"
+    },
+    {
+      "sku": "8383",
+      "name": "Zapatillas Vans",
+      "description": "Zapatillas deportivas para mujer",
+      "price": 99.99,
+      "stock": true,
+      "brand": "Vans",
+      "image": "https://example.com/vans.jpg"
+    }
+  ]
